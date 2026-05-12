@@ -31,5 +31,10 @@ public class Main {
                 .filter(n -> n > 3)
                 .collect(Collectors.toList());
 
+
+
+//       12.05.2026 - продолжение темы streamAPI
+
+
     }
 }
